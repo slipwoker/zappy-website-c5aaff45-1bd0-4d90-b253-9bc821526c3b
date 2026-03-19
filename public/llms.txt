@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות בגדי ים אונליין ישראל שתשנה את חוויית החוף שלך לנצח. עיצובים עכשוויים, בדים איכותיים וסטייל שמדבר בשבילך. קני עכשיו וצאי לים בביטחון מלא!
+
+### אודות
+https://example.com/about
+SWIMIT נולדה מאהבה אמיתית לים ולאופנה. גלי את הערכים, החזון והתשוקה שמניעים אותנו ליצור בגדי ים שמשלבים סטייל עם תפקודיות מושלמת לכל אישה.
+
+### לוקבוק
+https://example.com/lookbook
+לוקבוק SWIMIT הוא עולם שלם של אופנת חוף: צבעים, עיצובים וסטיילינג שיעניקו לך השראה לקראת העונה. גלי את הקולקציה החדשה ובחרי את הלוק שמדבר אלייך.
+
+### צור קשר
+https://example.com/contact
+יש שאלה על בגדי ים, מידות או משלוחים? צוות SWIMIT כאן בשבילך עם מענה אישי ומהיר. צרי קשר עכשיו ונדאג שתצאי לים עם הלוק המושלם שלך!
+
+### Products
+https://example.com/products
+המוצרים שלנו - SWIMIT
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - SWIMIT
+
+### Category
+https://example.com/category/:slug
+מוצרים - SWIMIT
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
